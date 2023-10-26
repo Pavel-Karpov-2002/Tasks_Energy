@@ -1,0 +1,21 @@
+﻿<Window x:Class="Task_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="affectedAreasDataGrid" Margin="0" AutoGenerateColumns="False">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="outage_start" Binding="{Binding Path=OutageStart, Mode=OneWay}" />
+                <DataGridHyperlinkColumn Header="outage_end" Binding="{Binding Path=OutageEnd, Mode=OneWay}"/>
+                <DataGridTextColumn Header="outage_end" Binding="{Binding Path=Name, Mode=OneWay}"/>
+                <DataGridTextColumn Header="affected_customers" Binding="{Binding Path=AffectedCustomers, Mode=OneWay}"/>
+                <DataGridTextColumn Header="reason" Binding="{Binding Path=Reason, Mode=OneWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

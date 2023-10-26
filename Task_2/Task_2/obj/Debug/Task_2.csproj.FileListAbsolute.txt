@@ -1,0 +1,12 @@
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\bin\Debug\Task_2.exe
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\bin\Debug\Task_2.pdb
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\bin\Debug\Task_2_API.dll
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\bin\Debug\Task_2_API.pdb
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\obj\Debug\Task_2.csproj.CopyComplete
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\pavel\Desktop\Tasks\Task_2\Task_2\obj\Debug\Task_2.pdb
